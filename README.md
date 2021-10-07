@@ -1,2 +1,2 @@
 # rimauswap-periphery
-RimauSwap DEX router and other supporting contracts
+Router and helper contracts for dex operations.

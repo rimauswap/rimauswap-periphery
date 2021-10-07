@@ -1,0 +1,23 @@
+{
+  "name": "rimauswap-peripheri",
+  "version": "1.0.0",
+  "description": "Core contract for router contract router and dependencies",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Rimau",
+    "router",
+    "factory",
+    "pair"
+  ],
+  "author": "info@rimauswap.finance",
+  "license": "ISC",
+  "dependencies": {
+    "@uniswap/lib": "^4.0.1-alpha"
+  }
+}
